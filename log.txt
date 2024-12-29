@@ -1,5 +1,5 @@
 
-                decision tree ayırarrek dataları 100 derinlik  --  2024-12-04 21:53:53.239075
+decision tree ayırarrek dataları 100 derinlik  --  2024-12-04 21:53:53.239075
 Train MSE: 3.4816612485223007e-20, Train R2: 1.0
 Test MSE: 0.027208937301155364, Test R2: -1.8151202656715917
 Validation MSE: 0.03549570816388033, Validation R2: -3.693345862453967
@@ -8,4 +8,3 @@ Yeni Alfa için Validation R2: -101.67595665431456
 
 
 
-            
